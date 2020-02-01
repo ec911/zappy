@@ -1,5 +1,5 @@
 # zap2xml
-Docker container for zap2xml
+Docker container for zap2xml.
 
 This is zap2xml with Environment Variables driving the configuration. By default it runs every 12 hours to update your EPG data from zap2it
 
